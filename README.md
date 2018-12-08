@@ -20,3 +20,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
+# For demo version of this app kindly follow the link bellow
+* link - https://rocky-beyond-72724.herokuapp.com/
