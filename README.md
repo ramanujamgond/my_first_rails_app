@@ -21,5 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-# For demo version of this app kindly follow the link bellow
+## For demo version of this app kindly follow the link bellow
 * link - https://rocky-beyond-72724.herokuapp.com/
